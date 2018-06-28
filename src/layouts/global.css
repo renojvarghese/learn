@@ -774,35 +774,35 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 .night .mtk1 {
-  color: #d4d4d4;
+  color: #e0e0e0;
 }
 
 .night .mtk2 {
-  color: #1e1e1e;
+  color: #f5f5f5;
 }
 
 .night .mtk3 {
-  color: #cc6666;
+  color: #d49494;
 }
 
 .night .mtk4 {
-  color: #9cdcfe;
+  color: #c7bbec;
 }
 
 .night .mtk5 {
-  color: #ce9178;
+  color: #ecb29b;
 }
 
 .night .mtk6 {
-  color: #b5cea8;
+  color: #bce0aa;
 }
 
 .night .mtk7 {
-  color: #608b4e;
+  color: #9ac9f7;
 }
 
 .night .mtk8 {
-  color: #569cd6;
+  color: #6fd4ce;
 }
 
 .night .mtk9 {
@@ -810,7 +810,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .night .mtk10 {
-  color: #808080;
+  color: #a0a0a0;
 }
 
 .night .mtk11 {
@@ -818,7 +818,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .night .mtk12 {
-  color: #c586c0;
+  color: #e697e0;
 }
 
 .night .mtk13 {
@@ -826,23 +826,23 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .night .mtk14 {
-  color: #dd6a6f;
+  color: #f97c7c;
 }
 
 .night .mtk15 {
-  color: #5bb498;
+  color: #7ed0b6;
 }
 
 .night .mtk16 {
-  color: #909090;
+  color: #979797;
 }
 
 .night .mtk17 {
-  color: #778899;
+  color: #7780a0;
 }
 
 .night .mtk18 {
-  color: #ff00ff;
+  color: #f7c1f7;
 }
 
 .night .mtk19 {
@@ -850,23 +850,23 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .night .mtk20 {
-  color: #ff0000;
+  color: #e4b32f;
 }
 
 .night .mtk21 {
-  color: #4f76ac;
+  color: #6992cc;
 }
 
 .night .mtk22 {
-  color: #3dc9b0;
+  color: #65e4ce;
 }
 
 .night .mtk23 {
-  color: #74b0df;
+  color: #80b8e4;
 }
 
 .night .mtk24 {
-  color: #4864aa;
+  color: #bcc7e4;
 }
 
 .night .mtki {
@@ -882,8 +882,4 @@ h1, h2, h3, h4, h5, h6 {
 }
 .night .challenge-preview {
   background: #fff;
-}
-.night .modal-content {
-  background-color: #333;
-  color: #fff;
 }
