@@ -1,6 +1,5 @@
 .map-ui {
   height: 100%;
-  max-height: calc(100vh - (45px + 1.45rem));
   margin-left: 35px;
 }
 
@@ -15,10 +14,10 @@
   cursor: pointer;
 }
 
-.map-title>svg {
+.map-title > svg {
   width: 14px;
   margin-right: 5px;
-  flex-shrink: 0
+  flex-shrink: 0;
 }
 
 li.open > .map-title svg {
