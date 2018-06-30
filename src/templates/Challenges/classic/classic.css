@@ -1,5 +1,5 @@
 .reflex-element {
-  overflow: hidden !important;
+  overflow-x: hidden;
 }
 
 .editor {
